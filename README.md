@@ -1,2 +1,2 @@
 # iOS_App_Development
-COMP 5970
+Summer 2019
